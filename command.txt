@@ -1,0 +1,3 @@
+php artisan make:model Post -mcr
+
+php artisan make:controller PostController --resource
